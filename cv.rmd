@@ -143,7 +143,7 @@ CV %<>% print_links()
 
 This CV is made with the R packages [**pagedown**](https://github.com/rstudio/pagedown) and [**datadrivencv**](https://github.com/nstrayer/datadrivencv).  
   
-The public repository of this CV is hosted in [**here**](https://github.com/rekren/datadriven_cv/cv.html)
+The public repository of this CV is hosted in [**here**](https://github.com/rekren/datadriven_cv)
 
 Last updated on `r Sys.Date()`.
 :::
